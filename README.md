@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning about Machine Learning and Mobile Apps development
+
+thanks for coming to see my repo
 <!--
 **Ariqusu77/Ariqusu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
